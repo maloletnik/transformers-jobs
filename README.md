@@ -1,6 +1,6 @@
 # transformers-jobs
 
-The transformers directory contains the slightly modified filed of transformers from huggingfaces.
+The transformers directory contains the slightly modified filed of transformers from huggingface.
 
 ```scrape.py``` used for scraping linkedin.
 ```preprocess.py``` convert the json to train,val,test files that can be used with transformer code.

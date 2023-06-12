@@ -1,5 +1,5 @@
 selenium==3.141.0
 torch==1.5.1+cu101
 torchvision==0.6.1+cu101
-transformers==3.0.2
+transformers==4.30.0
 tensorboard==2.3.0
